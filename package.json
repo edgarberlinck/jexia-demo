@@ -1,0 +1,16 @@
+{
+  "name": "photo-gallery",
+  "version": "1.0.0",
+  "description": "A amazing photo gallery using jexia.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jexia-sdk-js": "^4.0.0",
+    "node-fetch": "^2.6.0",
+    "ws": "^7.0.1"
+  }
+}
